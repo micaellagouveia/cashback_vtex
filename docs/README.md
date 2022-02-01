@@ -63,3 +63,22 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## Comandos GIT
+
+- Criar nova branch: Você tem que estar na branch main e roda
+```
+git checkout -b NOME_BRANCH
+```
+Ele já muda para a branch criada
+
+- Commitar na branch
+```
+git add PATH
+git commit -m "MENSAGEM DO COMMIT"
+git push origin NOME_BRANCH
+```
+
+- Abrir Pull request
+Para que a sua branch vá para a main, vc deve abrir um PR pela interface do Github.
