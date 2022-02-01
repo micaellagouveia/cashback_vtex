@@ -1,7 +1,8 @@
 {
   "vendor": "vtex",
-  "name": "store-theme",
-  "version": "4.4.2",
+  "name": "cashback",
+  "version": "1.0.0",
+  
   "builders": {
     "styles": "2.x",
     "store": "0.x",
