@@ -82,3 +82,8 @@ git push origin NOME_BRANCH
 
 - Abrir Pull request
 Para que a sua branch vá para a main, vc deve abrir um PR pela interface do Github.
+
+- Atualizar branch
+```
+git pull origin NOME_BRANCH
+```
