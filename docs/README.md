@@ -7,6 +7,9 @@ Para instalar o aplicativo no admin e, assim, gerenciar suas cashback, deve-se e
 ```json
   vtex install vtex.cashback@1.x
 ```
+
+# Material teorico
+https://learn.vtex.com/docs/course-store-block-step02component-lang-pt
 # Store theme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
