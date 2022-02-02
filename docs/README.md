@@ -9,7 +9,9 @@ Para instalar o aplicativo no admin e, assim, gerenciar suas cashback, deve-se e
 ```
 
 ### Material teorico
-#### Vtex
+#### Vtex orientação projeto
+https://github.com/vtex-apps/training-week-demo/blob/main/CHALLENGES.md
+#### Vtex material teórico
 https://learn.vtex.com/docs/course-store-block-step02component-lang-pt
 #### Exemplo
 https://github.com/anamaiabap/cashback
