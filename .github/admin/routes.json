@@ -1,0 +1,6 @@
+{
+  "admin.app.cashback": {
+    "component": "CashbackArea",
+    "path": "/admin/app/cashback"
+  }
+}
