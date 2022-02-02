@@ -10,6 +10,7 @@ Para instalar o aplicativo no admin e, assim, gerenciar suas cashback, deve-se e
 
 # Material teorico
 https://learn.vtex.com/docs/course-store-block-step02component-lang-pt
+https://github.com/anamaiabap/cashback
 # Store theme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
